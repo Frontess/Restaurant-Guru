@@ -1,6 +1,6 @@
 ## Сервис подбора ресторана
 
 Стек: 
-- HTML, CSS, JS
+- HTML (адаптив, БЭМ), CSS, JS
 - дизайн Figma
 - слайдер Swiper — библиотека JavaScript
